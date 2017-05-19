@@ -1,0 +1,12 @@
+body {
+  padding-left: 50px;
+  background-color: red;
+}
+h1 {
+  text-align: center;
+}
+canvas {
+  position: fixed;
+  top: 150px;
+  left: 0px;
+}
