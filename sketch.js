@@ -9,8 +9,8 @@ var people = [
 ]
 // This function holds the arrays for the quote images and the quotes themselves.
 function preload() {
-  myImage = [loadImage("assets/MermaidMan.JPG"), loadImage("assets/Dinkleberg.JPG"), loadImage("assets/Mask.JPG"), loadImage("assets/Courage.JPG"), loadImage("assets/Bill.JPG"), loadImage("assets/Astley.JPG")];
-  img = loadImage("assets/Meme.JPG");
+  myImage = [loadImage("assets/MermaidMan.jpg"), loadImage("assets/Dinkleberg.jpg"), loadImage("assets/Mask.jpg"), loadImage("assets/Courage.jpg"), loadImage("assets/Bill.jpg"), loadImage("assets/Astley.jpg")];
+  img = loadImage("assets/Meme.jpg");
   mySounds = [loadSound('assets/EVIL.mp3'), loadSound('assets/DINKLE.mp3'), loadSound('assets/STOP.mp3'), loadSound('assets/EEE.mp3'), loadSound('assets/BILLBILL.mp3'), loadSound('assets/GIVEUP.mp3')];
 }
 // This function is responsible for where the quote image's are located and for adjusting the hue, saturation, and brightness.
